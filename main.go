@@ -32,7 +32,7 @@ func main() {
 	flag.StringVar(&service, "s", "youtube", "video service provider name")
 	flag.StringVar(&path, "p", "../"+service+"_collection/pcap", "path to pcap files")
 	// assume each directory contains pcap files for a specific user platform
-	// e.g., ../../youtube_collection/pcap/win/chrome.pcapng
+	// e.g., ../youtube_collection/pcap/win/chrome.pcapng
 	dirs, _ := os.ReadDir(path)
 	for _, dir := range dirs {
 		filePath := path + "/" + dir.Name()
