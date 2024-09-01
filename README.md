@@ -2,7 +2,7 @@
 
 _Yifan Wang, Minzhao Lyu, Vijay Sivaraman_
 
-In Proc. ACM International Measurement Conference (IMC), Madrid, Spain, 2024
+In Proc. ACM Internet Measurement Conference (IMC), Madrid, Spain, 2024
 
 https://doi.org/10.1145/3646547.3688435
 
