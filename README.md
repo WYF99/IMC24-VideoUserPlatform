@@ -6,6 +6,10 @@ In Proc. ACM Internet Measurement Conference (IMC), Madrid, Spain, 2024
 
 https://doi.org/10.1145/3646547.3688435
 
+Arxiv version: https://arxiv.org/pdf/2408.16995
+
+---
+
 ```
 @inproceedings{wang_characterizing_2024,
   author = {Wang, Yifan and Lyu, Minzhao and Sivaraman, Vijay},
